@@ -1,3 +1,6 @@
+
+
+
 # FacturationPro Enterprise
 
 > **A complete enterprise invoicing & billing application built with C++ / Delphi, powered by SQLite and FireDAC.**
@@ -7,10 +10,8 @@
 ![Database](https://img.shields.io/badge/Database-SQLite%20via%20FireDAC-orange)
 ![Version](https://img.shields.io/badge/Version-2.1-purple)
 ![License](https://img.shields.io/badge/License-Proprietary-red)
-
----
-
-⚠️ **This is NOT an open-source project.** No source code is distributed here — only code snippets are shown for portfolio and demonstration purposes. The full application is proprietary and under active development. See [LICENSE](LICENSE) for details.
+![RAD Studio](https://img.shields.io/badge/RAD%20Studio-VCL-success)
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 
 ---
 
@@ -145,3 +146,9 @@ This is v2.1 and it's far from done. Here's what I'm working on or planning:
 - **SQLite** — Lightweight, file-based, zero configuration
 - **FireDAC** — Embarcadero's ORM and database abstraction layer
 - **Custom UI kit** — ModernButton, ModernKPICard, ModernComponent (hand-rolled on VCL)
+
+
+---
+
+⚠️ **This is NOT an open-source project.** No source code is distributed here — only code snippets are shown for portfolio and demonstration purposes. The full application is proprietary and under active development. See [LICENSE](LICENSE) for details.
+
