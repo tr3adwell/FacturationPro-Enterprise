@@ -145,7 +145,3 @@ This is v2.1 and it's far from done. Here's what I'm working on or planning:
 - **SQLite** — Lightweight, file-based, zero configuration
 - **FireDAC** — Embarcadero's ORM and database abstraction layer
 - **Custom UI kit** — ModernButton, ModernKPICard, ModernComponent (hand-rolled on VCL)
-
----
-
-*If you have questions about the architecture, want to discuss the project, or are interested in collaboration — don't hesitate to reach out.*
